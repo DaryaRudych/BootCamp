@@ -1,2 +1,2 @@
 # BootCamp
-Homework 
+Projects and Homework
